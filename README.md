@@ -16,9 +16,6 @@ SQL · PostgreSQL · Excel · Power BI · Holistics
 **Business Tools**  
 HubSpot
 
-**Project & Collaboration Tools**  
-Git · GitHub
-
 ---
 
 ### Projects
