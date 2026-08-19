@@ -1,16 +1,32 @@
-## Hi there 👋
+# Marta Saraiva
 
-<!--
-**martasaraiva/martasaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics · Business Insights · Data Visualization
 
-Here are some ideas to get you started:
+I started working more closely with data during my time in Revenue Operations, and that's where my interest in analytics really started. I enjoy working with data to understand patterns and make sense of what’s behind the numbers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm using this space to share what I'm working on and document my progress along the way.
+
+---
+
+### Tools
+
+**Data & Analytics**  
+SQL · PostgreSQL · Excel · Power BI · Holistics
+
+**Business Tools**  
+HubSpot
+
+**Project & Collaboration Tools**  
+Git · GitHub
+
+---
+
+### Projects
+
+#### Data Analyst Job Market Analysis
+
+For my first SQL project, I decided to look into the data analyst job market. I wanted to see which skills appear most often in job postings, which are associated with higher salaries, and which offer a good balance between the two.
+
+I used SQL to analyse job posting data from 2023 and answer those questions.
+
+→ [**View project**](https://github.com/martasaraiva/SQL_Project_Data_Job_Analysis)
