@@ -2,7 +2,7 @@
 
 ### Data Analytics · Business Insights · Data Visualization
 
-I started working more closely with data during my time in Revenue Operations, and that's where my interest in analytics really started. I enjoy working with data to understand patterns and make sense of what’s behind the numbers.
+I started working more closely with data during my time in Revenue Operations, and that's where my interest in analytics grew. I enjoy working with data to understand patterns and make sense of what’s behind the numbers.
 
 I'm using this space to share what I'm working on and document my progress along the way.
 
