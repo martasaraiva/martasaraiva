@@ -1,6 +1,6 @@
 # Marta Saraiva
 
-### Data Analytics · Business Insights · Data Visualization
+### Interested in the questions behind the data
 
 I started working more closely with data during my time in Revenue Operations, and that's where my interest in analytics grew. I enjoy working with data to understand patterns and make sense of what’s behind the numbers.
 
